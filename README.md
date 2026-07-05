@@ -75,4 +75,4 @@ Built as a personal project to learn JavaScript, game development, and rendering
 
 **IPlays-dev** — [GitHub](https://github.com/IPlays-dev)
 
-*This game was vibe code* by IPlays.
+*This game was vibe coded* by IPlays.
