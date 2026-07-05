@@ -1,4 +1,4 @@
-# SECTOR ZERO 🔫
+# SECTOR ZERO 
 
 A browser-based raycasting FPS game inspired by classic shooters like Doom and Wolfenstein. Built entirely with vanilla JavaScript and HTML5 Canvas — no game engine, no libraries, just raw code.
 
