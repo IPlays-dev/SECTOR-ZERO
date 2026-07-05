@@ -5,7 +5,8 @@ A browser-based raycasting FPS game inspired by classic shooters like Doom and W
 ---
 
 ## 🎮 Play it
-Open `index.html` in any browser. No installation needed.
+After Installing the file 
+Open `SECTOR-ZERO.html` in any browser.
 
 ---
 
@@ -53,12 +54,6 @@ Open `index.html` in any browser. No installation needed.
 ## How It Works
 
 SECTOR ZERO uses a raycasting algorithm to simulate 3D perspective from a 2D map — the same technique used in classic 90s shooters. Rays are cast from the player's viewpoint, and walls are drawn taller or shorter depending on how far the ray travels before hitting a wall.
-
----
-
-## Screenshots
-
-*(Add screenshots here)*
 
 ---
 
