@@ -56,6 +56,12 @@ Open `SECTOR-ZERO.html` in any browser.
 SECTOR ZERO uses a raycasting algorithm to simulate 3D perspective from a 2D map — the same technique used in classic 90s shooters. Rays are cast from the player's viewpoint, and walls are drawn taller or shorter depending on how far the ray travels before hitting a wall.
 
 ---
+## Screenshots
+<img width="1641" height="826" alt="Screenshot_20260706_010800_Samsung Browser" src="https://github.com/user-attachments/assets/3d01834f-7197-49e2-9d5b-8a40aefaeb28" />
+<img width="2268" height="798" alt="Screen_Recording_20260706_011008_Chrome" src="https://github.com/user-attachments/assets/9dfe857d-71ea-4a81-87bd-095e8cf038d4" />
+<img width="2268" height="798" alt="Screen_Recording_20260706_011008_Chrome(1)" src="https://github.com/user-attachments/assets/0946b608-c0e2-4a83-92bd-2771f2280902" />
+
+
 
 ## About
 
