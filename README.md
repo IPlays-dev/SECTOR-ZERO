@@ -73,3 +73,5 @@ Built as a personal project to learn JavaScript, game development, and rendering
 ## Author
 
 **IPlays-dev** — [GitHub](https://github.com/IPlays-dev)
+
+*This game was vibe code*
